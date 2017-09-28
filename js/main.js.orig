@@ -1,8 +1,8 @@
 
 my another local copy change to test merge conflict
-<<<<<<< HEAD
-Local copy line to test merge conflicts between local and remote repo
-=======
 Repo line to test merge conflicts between local and repo adding abit more verbiage
->>>>>>> a0464dc83fa315e4d4a4013cec87e8ada83d20d5
- 
+<<<<<<< HEAD
+Local change
+=======
+Master change from git directly
+>>>>>>> f1bd0b50ff918cf8dac7a7c810ea64b00ce34c4f
