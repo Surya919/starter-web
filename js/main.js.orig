@@ -1,9 +1,8 @@
 
 my another local copy change to test merge conflict
 <<<<<<< HEAD
-Repo line to test merge conflicts between local and repo
- 
-=======
 Local copy line to test merge conflicts between local and remote repo
+=======
+Repo line to test merge conflicts between local and repo adding abit more verbiage
+>>>>>>> a0464dc83fa315e4d4a4013cec87e8ada83d20d5
  
->>>>>>> Local copy: to test merge conflicts
