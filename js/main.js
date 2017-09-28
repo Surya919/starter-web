@@ -1,2 +1,3 @@
 
-Remote test change to prac merge conflict
+my another local copy change to test merge conflict
+ 
